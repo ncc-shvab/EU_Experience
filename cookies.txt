@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.tourismexperience.org	TRUE	/	FALSE	1999999999	ARRAffinity	3686f4543397f687579628090250a9a8709791c6b79845b95560ab324fb0d7f7
+www.tourismexperience.org	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	3686f4543397f687579628090250a9a8709791c6b79845b95560ab324fb0d7f7
+www.tourismexperience.org	TRUE	/	FALSE	1999999999	shell#lang	en
+www.tourismexperience.org	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	ol4d44mksos0s4tv3ofid2h4
+www.tourismexperience.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.tourismexperience.org	TRUE	/	FALSE	1999999999	__RequestVerificationToken	X0FGhZrqyAufOoGWBlHHHOpcE_h2gAFWARwIVTqEFIKUTr1X1jz5XFKGrssCwAC5qwj7yAI7yqTUbZz6c9BB_xPyFK1K5hELeI6TyY-AO5I1
+www.tourismexperience.org	TRUE	/	FALSE	1999999999	SC_ANALYTICS_GLOBAL_COOKIE	c3ea2e8b96a0405c804384b083f5f0c4|False
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	cMR_dBMegAQ1ta2NhC8gBHmGozq6xdjXZe9X4tzvJsM-1709558969-1.0.1.1-Q7n9PeTGonaLSjx9J_sqz0ypjTWTpsqNECx6ckzXscbuqHxIvtWrt44UM6afLtk.XL416s3M4jwKIuqH45FBKg
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+
